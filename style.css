@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Glory:ital,wght@0,100..800;1,100..800&display=swap');
+
+*{
+    font-family: "Glory", sans-serif;
+}
+
+.main-container{
+    margin: 20px auto ;
+    height: 280px;
+}
+.inputValues{
+    margin: 10px;
+    padding: 20px;
+}
+.lab{
+    margin-right: 20px;
+}
+.buttons{
+    margin: 20px;
+    
+}
+.but1,.but2{
+    margin-right: 30px;
+}
+.output{
+    margin: 10px;
+    padding: 15px;
+
+}
